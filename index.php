@@ -26,7 +26,6 @@ try{
     </select>
 </form>
 
-
 <!-- Table -->
 <table border="1" width="400">
 
